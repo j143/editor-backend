@@ -45,7 +45,7 @@ https://github.com/vega/editor-backend.
     
 ## Documentation
 
-Go to https://vega.github.io/editor-backend/.
+Go to https://j143.github.io/editor-backend/.
 
 ## Code formatting
 
