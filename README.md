@@ -2,14 +2,15 @@
 
 [![Build Status](https://github.com/vega/editor-backend/workflows/Test/badge.svg)](https://github.com/vega/editor-backend/actions)
 
-Deployed at https://vega.now.sh and https://vega-editor-backend.domoritz.now.sh/. Code is at
-https://github.com/vega/editor-backend. 
+Deployed at https://editor-backend.vercel.app
+~~https://vega.now.sh~~ and ~~https://vega-editor-backend.domoritz.now.sh/~~. Code is at
+https://github.com/J143/editor-backend. 
 
 ## Setup Instructions
 
 1. Clone the repository.
     ```
-    $ git clone git@github.com:vega/editor-backend.git
+    $ git clone https://github.com/143/editor-backend
     ```
 
 2. Install all dependencies.
